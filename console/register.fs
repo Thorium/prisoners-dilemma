@@ -4,3 +4,4 @@ let registerAll() =
   AlwaysCollaborateStrategy.register()
   CopyStrategy.register()
   RandomStrategy.register()
+  PenaliseStrategy.register()
